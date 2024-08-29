@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">am a Software Engineering student at Beykent University in Istanbul and have a strong passion for the dynamic world of technology, specializing in DevOps, Container Orchestration, Cloud Computing, Linux and Programming. My journey in the software industry has been an exciting one, motivated by my insatiable curiosity and unwavering commitment to learn and adapt to the ever-evolving digital landscape.</p>
+<p align="left">I am always open to connect with other professionals, mentors and experts in the software field. If you would like to reach me or discuss potential collaborations, please feel free to connect with me on LinkedIn and send me a message or you can also reach me at fevzisahinler@gmail.com.</p>
 
 ###
 
